@@ -1,0 +1,96 @@
+# Privacy Policy for NYC Subway Alexa Skill
+
+**Last Updated:** April 2026
+
+## 1. Overview
+
+This Alexa skill ("NYC Subway" or "the Skill") provides real-time New York City subway alert information based on publicly available data from the Metropolitan Transportation Authority (MTA).
+
+We respect your privacy and are committed to minimizing data collection.
+
+---
+
+## 2. Information We Collect
+
+### a. User-Provided Information
+
+The Skill may store user preferences, including:
+
+* Subway lines you choose to monitor
+
+This data is stored using Amazon Alexa's built-in storage systems and is associated only with your Alexa user ID.
+
+### b. Automatically Collected Information
+
+We do **not** collect or store:
+
+* Personal names
+* Email addresses
+* Location data
+* Audio recordings
+
+Alexa (Amazon) may process voice input to operate the Skill, but we do not receive or store raw voice recordings.
+
+---
+
+## 3. How We Use Information
+
+Stored data is used solely to:
+
+* Remember your selected subway lines
+* Provide personalized subway status updates
+
+We do not use your data for:
+
+* Marketing
+* Advertising
+* Analytics outside of Alexa-provided metrics
+
+---
+
+## 4. Data Storage
+
+User preferences (e.g., saved subway lines) are stored securely using Amazon Web Services (AWS) via Alexa-hosted infrastructure.
+
+We do not maintain separate databases outside of Amazon’s systems.
+
+---
+
+## 5. Third-Party Services
+
+This Skill uses publicly available data from:
+
+* Metropolitan Transportation Authority (MTA)
+
+We do not share user data with any third parties.
+
+---
+
+## 6. Data Retention
+
+Your stored preferences remain until:
+
+* You explicitly remove them (e.g., “clear my lines”)
+* You disable the Skill
+* Amazon deletes associated data per their policies
+
+---
+
+## 7. Children’s Privacy
+
+This Skill is not directed toward children under 13 and does not knowingly collect personal information from children.
+
+---
+
+## 8. Security
+
+We rely on Amazon Alexa’s secure infrastructure for all data storage and processing.
+
+---
+
+## 9. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Updates will be posted at the same URL.
+
+---
+
